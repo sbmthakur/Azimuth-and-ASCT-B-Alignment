@@ -1,12 +1,4 @@
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/blood_pmbc_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/bone_marrow_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/brain_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/kidney_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/lung_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/lung_aligned_1.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/pancreas_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/spleen_aligned.csv
-https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/summary.csv
+
 https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/blood_pmbc_aligned.csv
 https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/bone_marrow_aligned.csv
 https://github.com/maddy3940/Azimuth-and-ASCT-B-Alignment/tree/master/Data/Asctb/brain_aligned.csv
