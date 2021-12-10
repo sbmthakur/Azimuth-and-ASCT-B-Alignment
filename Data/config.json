@@ -1,0 +1,48 @@
+{
+  "references": [
+    {
+      "name": "lung",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/lung.csv",
+      "file_name":"lung.csv",
+      "asctb_sid":"1tK916JyG5ZSXW_cXfsyZnzXfjyoN-8B2GXLbYD6_vF0",
+      "asctb_gid":"1824552484"
+    },
+    {
+      "name": "pancreas",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/pancreas.csv",  
+      "file_name":"pancreas.csv",
+      "asctb_gid":"1044871154"
+    },
+    {
+      "name": "kidney",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/kidney.csv",  
+      "file_name":"kidney.csv",
+      "asctb_gid":"2137043090"
+    },
+    {
+      "name": "brain",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/motor_cortex.csv",  
+      "file_name":"brain.csv",
+      "asctb_gid":"1379088218"
+    },
+    {
+      "name": "bone_marrow",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/bone_marrow.csv",  
+      "file_name":"bone_marrow.csv",
+      "asctb_gid":"1845311048"
+    },
+    {
+      "name": "blood_pmbc",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/pbmc.csv",  
+      "file_name":"blood_pmbc.csv",
+      "asctb_gid":"1315753355"
+    },
+    {
+      "name": "spleen",
+      "url": "https://hubmapconsortium.github.io/asctb-azimuth-data-comparison/spleen.csv",  
+      "file_name":"spleen.csv",
+      "asctb_gid":"984946629"
+    }
+    
+  ]
+}
